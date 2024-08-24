@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Choi Jiyoung</h1>
 <h3 align="center">With Result | 결과로 일하는 개발자 ‘최지영’입니다.</h3>
-<h3 align="center">3월 ~ 7월동안 개발 관련 이론 지식을 쌓기 위해 관련 자격증 4개를 취득하였습니다<p></h3>
-<h3 align="center">취득한 자격증</h3><p>
-  <h4 align="center">
-    1. SQLD<p>
-      2. 네트워크관리사 2급<p>
-        3. 정보처리산업기사 필기(10월 실기 응시 예정)<p>
-          4. 컴퓨터활용능력1급 필기(실기 응시 예정)
-  </h4>
+
 
 - 🔭 I developed [OzHouse-2](https://github.com/sweetPototo/ozHouse-2)
 
@@ -27,3 +20,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sweetpototo&show_icons=true&locale=en" alt="sweetpototo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sweetpototo&" alt="sweetpototo" /></p>
+
+<h3 align="center">3월 ~ 7월동안 개발 관련 이론 지식을 쌓기 위해 관련 자격증 4개를 취득하였습니다<p></h3>
+<h3 align="center">취득한 자격증</h3><p>
+  <h4 align="center">
+    1. SQLD<p>
+      2. 네트워크관리사 2급<p>
+        3. 정보처리산업기사 필기(10월 실기 응시 예정)<p>
+          4. 컴퓨터활용능력1급 필기(실기 응시 예정)
+  </h4>
